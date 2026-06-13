@@ -13,12 +13,10 @@ Most "awesome LLM" lists are walls of links. This one is opinionated and maintai
   <a href="#-contributing">Contribute</a>
 </p>
 
-![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Last Commit](https://img.shields.io/github/last-commit/USERNAME/awesome-llm-engineering)
-![Stars](https://img.shields.io/github/stars/USERNAME/awesome-llm-engineering?style=social)
-
-> **Note:** Replace `USERNAME` in the badge URLs above with your GitHub username after you create the repo.
+![Last Commit](https://img.shields.io/github/last-commit/YoungAlpaccino/awesome-llm-engineering)
+![Stars](https://img.shields.io/github/stars/YoungAlpaccino/awesome-llm-engineering?style=social)
 
 ---
 
@@ -205,9 +203,7 @@ Contributions make this list better for everyone. See [CONTRIBUTING.md](./CONTRI
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
-
-To the extent possible under law, the contributors have waived all copyright and related rights to this work. See [LICENSE](./LICENSE).
+Released under the [MIT License](./LICENSE) — free to use, modify, and distribute, including commercially. Just keep the copyright notice.
 
 ---
 

@@ -40,4 +40,4 @@ Good additions:
 Cheatsheets live in [`/cheatsheets`](./cheatsheets). Keep them **dense and copy-pasteable** —
 code examples over prose, tables over paragraphs. Verify any code you add actually runs.
 
-By contributing, you agree your contributions are released under the repo's [CC0-1.0 license](./LICENSE).
+By contributing, you agree your contributions are released under the repo's [MIT license](./LICENSE).

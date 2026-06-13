@@ -4,3 +4,34 @@ src/*
 codes/*
 venv
 venv/
+
+# Environment & secrets
+.env
+.env.*
+*.key
+secrets.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+*.swp
+
+# Local vector stores / scratch
+*.sqlite3
+chroma/
+.chroma/
+scratch/
